@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_most_numbers - func checks for checks for sdigit (through 9)
+ * print_most_numbers - func checks for checks for a digit (through 9)
  *
  * Return: Always 0.
  */
